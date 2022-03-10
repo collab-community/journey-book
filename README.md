@@ -47,4 +47,4 @@ Sharing your experience is very simple . just follow these steps :
 - At last, what advice would you give to your 18 year old younger self?
 - Add your social media handles like `TWITTER`, `LINKEDLN`, `GITHUB PROFILE`. So that the reader can connect with you.
 - Send your pull request with an small description about your job and company.
-- We will merge it as soon as possible :smiley
+- We will merge it as soon as possible :smiley:
