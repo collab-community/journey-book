@@ -6,22 +6,22 @@
 
 # Introduction
 
-This project is created for helping newbies to understand the field in which they want to go from those persons who is already woring at a position in that field.
+This project was created to help newbies to understand the field in which they want to go from those persons who are already working at a position in that field.
 
 # Description
 
-The folks can share everything they achieved,experienced or learnt in thier life till now .It can be anything like
+The folks can share everything they achieved, experienced, or learned in their life till now .It can be anything like
 
-- Getting a job (in FAANG, MNC'S ,startups,remote)
+- Getting a job (in FAANG, MNCs, startups remote)
 - Getting an internship (Remote/local) in any companies.
-- How they have spent their college life and what mistakes they have done and suggestions to their younger self about how they can avoid those mistakes
+  -How they have spent their college life and what mistakes they have made and suggestions to their younger self about how they can avoid those mistakes.
 - Interview experiences
-- Personal branding (youtube,twitter,linkdedln,instagram)
-- How someone from non CSE/IT backgroud switched their domain and got into IT jobs.
-- How they network from pepole
-- how they started Freelancing
+- Personal branding (youtube, twitter, linkedin, instagram)
+- How someone from a non CSE/IT background switched their domain and got into IT jobs.
+- How they network with people
+- How they started Freelancing
 - How they have created their portfolio and got offers.
-- how they started open source and what and how they got oppurtunites open source.
+- How they started open source and what and how they got opportunities open source.
 - Experiences about Hackathons and Coding contests.
 
 # Our Purpose behind this project :smiley:
