@@ -34,20 +34,20 @@ The second idea is you will never find a place where you will get thousands of e
 
 Sharing your experience is very simple . just follow these steps :
 
-- Create a New file with your name and designation or company you are working in or you are an (YOUTUBER / FREELANCER)
-- share your journey in your own words .(if possible try to add headings about what are you talking about).
-  - share about what skills you have learnt which helped you in cracking that job or internship
-  - what difficulties you have faced ?
-  - what misktakes you have done ?
-  - how your networking with pepole helped you in growing throughtout your journey ?
-  - How you stared open source ?
-  - projects you have worked on ?
-  - how you got your 1st internship ?
-  - what are your experiences in that 1st internship ?
-  - At last ,what advices you would give to your 18 years old youngerself ?
-- Add your social media handles like `TWITTER`, `LINKEDLN`, `GITHUB PROFILE`. So that the reader could connect with you.
-- Send your pull request with an small descripition about your job and company.
-- We will merge it as soon as possible :smiley:
+- Create a new file with your name and designation or company you are working for or you are a (YOUTUBER / FREELANCER)
+- share your journey in your own words .(if possible, try to add headings about what you are talking about).
+- share what skills you have learned which helped you in cracking that job or internship
+- what difficulties have you faced ?
+- what mistakes have you made ?
+- how has your networking with people helped you in growing throughout your journey ?
+- How did you start open source ?
+- projects you have worked on ?
+- how did you get your 1st internship ?
+- what were your experiences during that 1st internship ?
+- At last, what advice would you give to your 18 year old younger self?
+- Add your social media handles like `TWITTER`, `LINKEDLN`, `GITHUB PROFILE`. So that the reader can connect with you.
+- Send your pull request with an small description about your job and company.
+- We will merge it as soon as possible :smiley
 
 ## License
 
