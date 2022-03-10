@@ -1,5 +1,5 @@
 <div align="center">
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 <img src="https://github-size-badge.herokuapp.com/Adarsh-jaiss/journey-book.svg" />
   <a href="https://github.com/Adarsh-jaiss/journey-book">
 </div>
