@@ -26,9 +26,9 @@ The folks can share everything they achieved, experienced, or learned in their l
 
 # Our Purpose behind this project :smiley:
 
-So, basically the idea is thousands of developers/students/tech enthusiasts will share their journey about anything they have achieved and done in their carrier so that the newbies can learn from their exeriences and avoid those mistakes which they have done. So, Feel free to share with us 🙂
+So, basically the idea is that thousands of developers/students/tech enthusiasts will share their journey about anything they have achieved and done in their carrier so that the newbies can learn from their experiences and avoid those mistakes which they have done. So, Feel free to share with us 🙂
 
-The second idea is you will never find a place where you will get thousands of experiences and journies of pepole who are doing so much in their carrier and have achieved so much . thier is a way that you can listen podcasts but that is very limited for you .you don't know everyone. And listening to podcasts is also very time consuming but reading documentation is NOT .
+The second idea is you will never find a place where you will get thousands of experiences and journies of people who are doing so much in their carrier and have achieved so much . There is a way that you can listen to podcasts, but that is very limited for you.you don't know everyone. And listening to podcasts is also very time consuming, but reading documentation is NOT .
 
 # How you can contribute to this project :grey_exclamation:
 
