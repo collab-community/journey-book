@@ -12,7 +12,7 @@ This project was created to help newbies to understand the field in which they w
 
 The folks can share everything they achieved, experienced, or learned in their life till now .It can be anything like
 
-- Getting a job (in FAANG, MNCs, startups remote)
+- Getting a job (in FAANG, MNCs, startups, remote job)
 - Getting an internship (Remote/local) in any companies.
   -How they have spent their college life and what mistakes they have made and suggestions to their younger self about how they can avoid those mistakes.
 - Interview experiences
