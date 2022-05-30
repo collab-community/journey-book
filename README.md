@@ -1,14 +1,18 @@
+# Journey Book
+
+![journey-book header image](https://socialify.git.ci/Adarsh-jaiss/journey-book/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fgeest-travel-kit%2F128%2Ftravel_journey-13-512.png&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+
 <div align="center">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 <img src="https://github-size-badge.herokuapp.com/Adarsh-jaiss/journey-book.svg" />
   <a href="https://github.com/Adarsh-jaiss/journey-book">
 </div>
 
-# Introduction
+## Introduction
 
 This project was created to help newbies to understand the field in which they want to go from those persons who are already working at a position in that field.
 
-# Description
+## Description
 
 Folks can share everything they achieved, experienced, or learned in their life till now .It can be anything like
 
@@ -24,13 +28,13 @@ Folks can share everything they achieved, experienced, or learned in their life 
 - How they started open source and what and how they got opportunities open source.
 - Experiences about Hackathons and Coding contests.
 
-# Our Purpose behind this project :smiley:
+## Our Purpose behind this project :smiley:
 
 So, basically the idea is that thousands of developers/students/tech enthusiasts will share their journey about anything they have achieved and done in their carrier so that the newbies can learn from their experiences and avoid those mistakes which they have done. So, Feel free to share with us 🙂
 
 The second idea is you will never find a place where you will get thousands of experiences and journies of people who are doing so much in their carrier and have achieved so much . There is a way that you can listen to podcasts, but that is very limited for you.you don't know everyone. And listening to podcasts is also very time consuming, but reading documentation is NOT .
 
-# How you can contribute to this project :grey_exclamation:
+## How you can contribute to this project :grey_exclamation:
 
 Sharing your experience is very simple . just follow these steps :
 
