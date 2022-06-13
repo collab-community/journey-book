@@ -12,7 +12,7 @@ I was facinated with open-source and decided that I should contribute to a few i
 ## Connect With Me
 You can connect with my on my [GitHub discussions page](https://github.com/KendallDoesCoding/KendallDoesCoding/discussions) or on email on, contact@kendalldoescoding.gq
 
-## 
+## Sign off
 Thanks for reading my experience of open-source & Have a nice day and a brilliant coding journey,
 
 Kendall Does Coding
