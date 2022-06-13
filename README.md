@@ -54,3 +54,5 @@ Sharing your experience is very simple . just follow these steps :
 - Add your social media handles like `TWITTER`, `LINKEDLN`, `GITHUB PROFILE`. So that the reader can connect with you.
 - Send your pull request with a small description about your job and company.
 - We will merge it as soon as possible :smiley:
+  
+**CHECK OUT THE JOURNEY'S SHARED CURRENTLY: [https://github.com/Adarsh-jaiss/journey-book/tree/main/journeys](https://github.com/Adarsh-jaiss/journey-book/tree/main/journeys)**
