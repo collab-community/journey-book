@@ -1,3 +1,5 @@
+### [KendallDoesCoding](https://github.com/KendallDoesCoding)'s Coding Journey
+
 - I started doing coding around 2019, it was I believe. I still to this day try to code pretty often, and really like coding.. I do it as a hobby, timepass.
 
 ## My Journey
