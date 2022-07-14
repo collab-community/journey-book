@@ -1,11 +1,11 @@
 # Journey Book
 
-![journey-book header image](https://socialify.git.ci/Adarsh-jaiss/journey-book/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fgeest-travel-kit%2F128%2Ftravel_journey-13-512.png&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+![journey-book header image](https://socialify.git.ci/collab-community/journey-book/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fgeest-travel-kit%2F128%2Ftravel_journey-13-512.png&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-<img src="https://github-size-badge.herokuapp.com/Adarsh-jaiss/journey-book.svg" />
-  <a href="https://github.com/Adarsh-jaiss/journey-book"></a>
+<img src="https://github-size-badge.herokuapp.com/collab-community/journey-book.svg" />
+  <a href="https://github.com/collab-community/journey-book"></a>
 </div>
 
 ## Introduction
