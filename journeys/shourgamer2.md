@@ -4,7 +4,7 @@ I was intrested in making games so I learnt the unity engine and started using i
 Which was a fps story game. Sadly after I exported the game I didn't publish it. Well then I got intrest in roblox games (which I have tried before but at that time I thought it will be a waste of time to make games in roblox)
 So I built roblox games and I watched some youtube videos to learn lua.
 ### What I have done so far! 
-I have built a lot of projects like [TermBolt - A terminal ](https://github.com/shourgamer2/termbolt), [What-Language -A programming language (In work, uses the terminal for most of the operation. Like a toy language for now)](https://github.com/what-language)
+I have built a lot of projects like [TermBolt - A terminal ](https://github.com/shourgamer2/termbolt), [What-Language -A programming language (In work, uses the terminal for most of the operation. Like a toy language for now)](https://github.com/what-language).
 And more on https://shourgamer2.tk/#projects and I also own the team [ShourGames](https://github.com/shourgames)
 ### How to reach me?
 Fell free to email me at contact@shourgamer2.tk and you can also contact me at https://shourgamer2.tk/#contact
