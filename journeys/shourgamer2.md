@@ -1,7 +1,7 @@
 ## How I Began Coding!
 I started coding in 2020. It was lockdown and it was boring to play games all day so I decided to learn to code. My first language I bealive was python or C#. 
 ### Shourgamer2's Journey
-I was intrested in making games so I learnt the [unity engine](https://unity.com/) and started using it. I used to code all day at that time and I was working on a project called the "Golden pistol"
+I was intrested in making games so I learnt the [unity engine](https://unity.com) and started using it. I used to code all day at that time and I was working on a project called the "Golden pistol"
 Which was a fps story game. Sadly after I exported the game I didn't publish it. Well then I got interest in Roblox games (which I have tried before but at that time I thought it will be a waste of time to make games in Roblox)
 So I built Roblox games and I watched some YouTube videos to learn Lua.
 ### What I have done so far! 
