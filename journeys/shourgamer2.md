@@ -8,4 +8,4 @@ So I built Roblox games and I watched some YouTube videos to learn Lua.
 I have built a lot of projects like [TermBolt - A terminal ](https://github.com/shourgamer2/termbolt), [What-Language -A programming language (In work, uses the terminal for most of the operation. Like a toy language for now)](https://github.com/what-language).
 And more on https://shourgamer2.tk/#projects and I also own the team [ShourGames](https://github.com/shourgames).
 ### How to reach me?
-Feel free to email me at contact@shourgamer2.tk and you can also contact me at https://shourgamer2.tk/#contact
+Feel free to email me at contact@shourgamer2.tk and you can also contact me at https://shourgamer2.tk/#contact.
