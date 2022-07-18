@@ -10,49 +10,10 @@
 
 ## Introduction
 
-This project was created to help newbies to understand the field in which they want to go from those persons who are already working at a position in that field.
-https://collab-community.github.io/journey-book/
-## Description
+This project is  created for newbies to open source and have no idea how to get started with open source & also whom those have no idea how to contribute to an open source project. 
 
-Folks can share everything they achieved, experienced, or learned in their life till now .It can be anything like
+## How to contribute
 
-- Getting a job (in FAANG, MNCs, startups, remote job)
-- Getting an internship (Remote/local) in any companies.
-  -How they have spent their college life and what mistakes they have made and suggestions to their younger self about how they can avoid those mistakes.
-- Interview experiences
-- Personal branding (youtube, twitter, linkedin, instagram)
-- How someone from a non CSE/IT background switched their domain and got into IT jobs.
-- How they network with people
-- How they started Freelancing
-- How they have created their portfolio and got offers.
-- How they started open source and what and how they got opportunities open source.
-- Experiences about Hackathons and Coding contests.
-
-## Our Purpose behind this project :smiley:
-
-So, basically the idea is that thousands of developers/students/tech enthusiasts will share their journey about anything they have achieved and done in their carrier so that the newbies can learn from their experiences and avoid those mistakes which they have done. So, Feel free to share with us 🙂
-
-The second idea is you will never find a place where you will get thousands of experiences and journies of people who are doing so much in their carrier and have achieved so much . There is a way that you can listen to podcasts, but that is very limited for you.you don't know everyone. And listening to podcasts is also very time consuming, but reading documentation is NOT .
-
-## How you can contribute to this project :grey_exclamation:
-
-Sharing your experience is very simple . just follow these steps :
-
-- Create a new .md file in the journeys directory.
-- Create a HEADING, for example - ### {usernames}({usersgithubprofile.com}'s Journey
-- Go to the next line and mention your name and designation or the company you are working for or if you are a (YOUTUBER / FREELANCER)
-- Share your journey in your own words . (if possible, try to add headings about what you are talking about).
-- Share what skills you have learned which helped you in cracking that job or internship
-- What difficulties have you faced ?
-- What mistakes have you made ?
-- How has your networking with people helped you in growing throughout your journey ?
-- How did you start open source ?
-- Projects you have worked on ?
-- How did you get your 1st internship ?
-- What were your experiences during that 1st internship ?
-- At last, what advice would you give to your 18 year old younger self?
-- Add your social media handles like `TWITTER`, `LINKEDLN`, `GITHUB PROFILE`. So that the reader can connect with you.
-- Send your pull request with a small description about your job and company.
-- We will merge it as soon as possible :smiley:
-  
-**CHECK OUT THE JOURNEY'S SHARED CURRENTLY: [https://github.com/Adarsh-jaiss/journey-book/tree/main/journeys](https://github.com/Adarsh-jaiss/journey-book/tree/main/journeys)**
+1. Just create a readme.md file in journey's section
+2. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something
+3. As you learn something new you can just update your readme file 
