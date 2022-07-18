@@ -1,0 +1,18 @@
+tasks:
+  - name: Dev Server
+    init: npm install
+    command: npm run dev
+
+ports:
+  - port: 3000
+    onOpen: open-browser
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addCheck: true
+    addComment: false
+    addBadge: true
