@@ -20,4 +20,4 @@ This project is  created for newbies to open source and have no idea how to get 
 
 ## Website :smile:
 
-https://deploy-preview-2--neontuts-docsify-test.netlify.app/#/
+**[https://collab-community.github.io/journey-book/](https://collab-community.github.io/journey-book/)**
