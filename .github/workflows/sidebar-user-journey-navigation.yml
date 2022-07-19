@@ -1,0 +1,17 @@
+name: "Read/Write profiles' data"
+on: [push]
+
+jobs:
+  table:
+    runs-on: ubuntu-latest
+    name: Update README from json data
+    steps:
+      - uses: actions/checkout@v2
+      - name: Read/Write data into README
+        uses: neontuts/gh-actions-markdown-link-generator@main
+        with:
+          json-file-path: "Data.json"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          object-field-names: '[ "name", "username" ]'
+          file-to-use: "_layouts/sidebar.md"
+          html-cell: "- [{{ name }}](../journeys/{{ username }}.md)"
