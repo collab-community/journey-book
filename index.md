@@ -2,7 +2,7 @@
 
 You've come to the fun part! Tap ANY name below to see their coding journey and get inspired!!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/neontuts/docsify-test)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/collab-community/journey-book)
 
 <div id="usersList">
   <li v-for="user in users" :key="user.username">
