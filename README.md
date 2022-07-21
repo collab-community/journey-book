@@ -14,8 +14,8 @@ This project is  created for newbies to open source and have no idea how to get 
 
 ## How to contribute
 
-1. Just create a readme.md file in journey's section, and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file
-2. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently, As you learn something new you can always update your README file)..
+1. Just create a readme.md file in journey's section, and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
+2. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently, As you learn something new you can always update your README file).
 3. As you learn something new you can just update your README file.
 
 ## Documentation:
