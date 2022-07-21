@@ -1,12 +1,6 @@
-# Share your Experience
+# What should you share in your journey?
+You can share anything about your carrer, but if your finding it hard to frame a journey, you can follow this and MAKE an amazing journey!
 
-Sharing your experience is very simple.
-
-Just follow these steps and you'll be ready to go!:
-
-# Steps to create and share your experience.
-- Create a new .md file in the journeys directory.
- 
 - Create a HEADING, for example - ### {usernames}({usersgithubprofile.com}'s Journey
 
 - Go to the next line and mention your name and designation or the company you are working for or if you are a (YOUTUBER / FREELANCER)
@@ -33,7 +27,4 @@ Just follow these steps and you'll be ready to go!:
 
 - Add your social media handles like TWITTER, LINKEDLN, GITHUB PROFILE. So that the reader can connect with you.
 
-- Send your pull request with a small description about your job and company.
-
-- We will merge it as soon as possible 😃
 
