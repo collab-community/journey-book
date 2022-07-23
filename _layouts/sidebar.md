@@ -5,6 +5,7 @@
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Shourjjo Majumder](../journeys/shourgamer2.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
+    - [Sambhav Gupta](../journeys/sambhav-gupta.md)
 <!--END_SECTION:data-section-->
 
 - Pages
