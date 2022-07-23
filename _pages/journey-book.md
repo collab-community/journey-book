@@ -1,6 +1,6 @@
 # Journey Book
 
-<img src="https://user-images.githubusercontent.com/84712013/178766437-c6f76c03-7f41-424b-948a-622d38788bcb.png">
+![journey-book header image](https://socialify.git.ci/collab-community/journey-book/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fgeest-travel-kit%2F128%2Ftravel_journey-13-512.png&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
 This project was created to help newbies to understand the field in which they want to go from those persons who are already working at a position in that field.
 
