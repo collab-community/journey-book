@@ -1,6 +1,6 @@
 # Share your Experience with 4 Easy STEPS!
 
-- Create a readme.md file in journey's section, and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
+- Just create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
 
 - You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently,
 As you learn something new you can always update your README file)..
