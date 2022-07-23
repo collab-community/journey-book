@@ -1,0 +1,11 @@
+#usersList > li:not(:first-child) {
+    margin-top: 10px;
+}
+#usersList > li {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+#usersList > li img {
+    border-radius: 50%;
+}
