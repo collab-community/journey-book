@@ -1,11 +1,11 @@
 # [Sambhav Gupta](https://github.com/sambhavgupta0705)'s Journey
 
--My coding journey started in 2017 when I learned Java in my High School and from that time 
-I developed a keen interest in coding
+My coding journey started in 2017 when I learned Java in my High School and from that time 
+I developed a keen interest in coding.
 
 ## My Journey
-In 2017 ,I started my coding journey ,developed a keen interest in it for 2 years.After that I satrted preparing for competitive exams so I wasn't able to do much of code.
-After completion of exams ,I came back to coding and started learning C++ in 2021.
+In 2017, I started my coding journey, developed a keen interest in it for 2 years. After that, I started preparing for competitive exams so I wasn't able to do much coding in that period.
+After completion of exams, I came back to coding and started learning C++ in 2021.
 
 After that I tried exploring Web Development and find frontend development a quite interesting.
 
