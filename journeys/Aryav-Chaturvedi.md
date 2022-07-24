@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/aryav-v">Aryav Chaturvedi's</a> Journey</h1>
+# [Aryav Chaturvedi](https://github.com/aryav-v)'s Journey
 
 The spark of my interest into programming and development was a indirect consequence of HTML classes back in my school days .<br>
 
