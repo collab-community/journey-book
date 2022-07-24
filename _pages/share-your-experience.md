@@ -1,5 +1,7 @@
 # Share your Experience with 4 Easy STEPS!
 
+**PLEASE NOTE: FOR DETAILED INSTRUCTIONS ON HOW TO SHARE YOUR JOURNEY PLEASE REFER TO [https://collab-community.github.io/journey-book/#/_pages/detailed-instructions.md] INDEPTH DOCS ON HOW TO SHARE YOUR JOURNEY!**
+
 - Just create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
 
 - You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently,
