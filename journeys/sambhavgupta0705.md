@@ -14,7 +14,7 @@ Currently I am trying my hands on backend development and Open Source contributi
 ### Connect With Me
 
 You can connect with me on
-[Github ](https://github.com/sambhavgupta0705)   [Gmail](sambhavgupta0705@gmail.com)   [Twitter](https://twitter.com/sambhavgupta75).
+[Github ](https://github.com/sambhavgupta0705),   [Gmail](sambhavgupta0705@gmail.com) & [Twitter](https://twitter.com/sambhavgupta75).
 
 
 Thank you for reading my experience.
