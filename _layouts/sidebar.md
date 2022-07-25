@@ -3,6 +3,7 @@
 
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
+    - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Shourjjo Majumder](../journeys/shourgamer2.md)
