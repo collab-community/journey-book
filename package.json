@@ -4,7 +4,7 @@
   "description": "Folks are welcome to share about themselves, even an small introduction is appreciated. We are working on its website :)",
   "main": "index.js",
   "scripts": {
-    "dev": "docsify serve ."
+    "dev": "lite-server"
   },
   "homepage": "https://github.com/collab-community/journey-book#readme",
   "repository": {
@@ -23,5 +23,8 @@
     "collab-community"
   ],
   "author": "collab-community",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
