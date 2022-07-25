@@ -11,7 +11,7 @@ So I built [Roblox games](https://roblox.com/groups/11702007/shour-games) and I 
 ### What I have done so far!
 
 I have built a lot of projects like [TermBolt - A terminal ](https://github.com/shourgamer2/termbolt), [What-Language -A programming language (In work, uses the terminal for most of the operation. Like a toy language for now)](https://github.com/what-language).
-And more on https://shourgamer2.tk/#projects and I also own the team [ShourGames](https://github.com/shourgames).
+And more on https://shourgamer2.tk/#Projects and I also own the team [ShourGames](https://github.com/shourgames).
 
 ### How to reach me?
 
