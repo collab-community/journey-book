@@ -15,7 +15,7 @@ This project was created for people who are new to open source and don't know ho
 ## How to contribute
 
 1. Create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
-2. Introuce yourself & share your social media links in that readme file so that they will be displayed on our website.
+2. Introduce yourself & share your social media links in that readme file so that they will be displayed on our website.
 3. As you learn something new you can just update your README file.
 
 ## Documentation:
