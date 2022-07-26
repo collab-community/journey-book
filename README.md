@@ -10,19 +10,19 @@
 
 ## Introduction
 
-This project is  created for newbies to open source and have no idea how to get started with open source & also whom those have no idea how to contribute to an open source project. 
+This project was created for people who are new to open source and don't know how to get started with open source or don't know how to contribute to an open source project. 
 
 ## How to contribute
 
-1. Just create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
-2. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently, As you learn something new you can always update your README file).
+1. Create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
+2. Introuce yourself & share your social media links in that readme file so that they will be displayed on our website.
 3. As you learn something new you can just update your README file.
 
 ## Documentation:
   - [What is Journey Book?](../_pages/what-is-this.md)
   - [Why We Created this Project!](../_pages/journey-book.md)
   - [Share Your Experience NOW!!!](../_pages/share-your-experience.md)
-  - [What Should My Journey Inculde?](../_pages/what-should-i-share.md)
+  - [What Should My Journey Include?](../_pages/what-should-i-share.md)
 
 ## Website :smile:
 
