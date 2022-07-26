@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project was created for people who are new to open source and don't know how to get started with open source or don't know how to contribute to an open source project. 
+This project was created for people who are new to open source, people who don't know how to get started with open source, or people who don't know how to contribute to an open source project. 
 
 ## How to contribute
 
