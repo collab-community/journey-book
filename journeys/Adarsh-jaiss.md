@@ -1,8 +1,9 @@
 # [Adarsh Jaiswal](https://github.com/Adarsh-jaiss)'s Coding Journey
 
-I am Adarsh, from india 🇮🇳 . I am a Python programmer🐍 and i am currently learning DevOps. i am specially focused on operator side, but i am trying to be proficiet in one programming lanugage i.e python , since every operator should have small knowledge about devops.
+I am Adarsh, from india 🇮🇳 . I am a Python programmer🐍 and i am currently learning DevOps. i am specially focused on operator side, but i am trying to be proficiet in one programming lanugage i.e python , since every operator should have small knowledge about a programming language in devops.
 
 Other than that ,
+
 📌I am an open source advocate 🚩 & 
 
 📌I am a content creator at  TWITTER, and i give talks on various twitter spaces as well
@@ -20,7 +21,7 @@ Other than that ,
 - I am also trying to contribute to kubernates ( I helped my friend in creating some PR's in Kubernates repository).
 
 - 100 days of code :
-   ( I am currently  working on this project . Our main purpose behind this project is to maintain consistency of folks who are practicing 100daysofcode and also encourage them to contribute to open source
+   ( I am currently  working on this project . Our main purpose behind this project is to maintain consistency of folks who are practicing 100daysofcode and also encourage them to contribute to open source). 
 
 
 # Other than coding , i love 
