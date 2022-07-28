@@ -1,4 +1,4 @@
-# [Adarsh Jaiswal](https://github.com/Adarsh-jaiss)'s Coding Journey
+# [Adarsh Jaiswal](https://github.com/Adarsh-jaiss) : A kid in tech 😎
 
 I am Adarsh, from india 🇮🇳 . I am a Python programmer🐍 and i am currently learning DevOps. i am specially focused on operator side, but i am trying to be proficiet in one programming lanugage i.e python , since every operator should have small knowledge about a programming language in devops.
 
