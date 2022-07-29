@@ -12,6 +12,10 @@
 
 This project was created for people who are new to open source, people who don't know how to get started with open source, or people who don't know how to contribute to an open source project.
 
+## Live Version
+
+Check out the website &rarr; **[Journey Book](https://collab-community.github.io/journey-book/)**
+
 ## Prerequisites
 
 Before installation, please make sure you have already installed the following tools:
@@ -64,7 +68,3 @@ To add your journey follow the below steps 👇
   - [Why We Created this Project!](../_pages/journey-book.md)
   - [Share Your Experience NOW!!!](../_pages/share-your-experience.md)
   - [What Should My Journey Include?](../_pages/what-should-i-share.md)
-
-## Website :smile:
-
-**[https://collab-community.github.io/journey-book/](https://collab-community.github.io/journey-book/)**
