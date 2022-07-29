@@ -15,10 +15,10 @@ This project was created for people who are new to open source, people who don't
 ## Prerequisites
 
 Before installation, please make sure you have already installed the following tools:
-> If you don't want to install these tools and npm packages. After cloning the repo open `index.html` in your favorite browser.
 
 - [Git](https://git-scm.com/downloads)
 - [NodeJs](https://nodejs.org/en/download/)
+> If you don't want to install these tools and npm packages. After cloning the repo open `index.html` in your favorite browser.
 
 ## Installation Steps
 
