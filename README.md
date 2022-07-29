@@ -32,10 +32,32 @@ Before installation, please make sure you have already installed the following t
 
 ## How to contribute
 
-1. Create a .md file with your username or real name, in the [Journey's directory](https://github.com/collab-community/journey-book/tree/main/journeys), and add your profile to the [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
-2. Introduce yourself & share your social media links in that readme file so that they will be displayed on our website.
-3. Share your tech journey and achievements.
-4. As you learn something new, you can update your README file, especially if you don't have any achivements currently.
+To add your journey follow the below steps 👇
+- Create a file named using your GitHub username `your-github-username.md` in the directory [journeys](https://github.com/collab-community/journey-book/tree/main/journeys), this will ensure it is unique.
+- Make sure you add your profile in [Data.json](https://github.com/collab-community/journey-book/blob/main/Data.json) file.
+> Your profile entry should look like 👇
+
+```json
+{
+  "name": "YOUR_NAME",
+  "username": "YOUR_GITHUB_USERNAME",
+  "avatar": "https://github.com/YOUR_GITHUB_USERNAME.png"
+}
+```
+
+> For Example :-
+
+```json
+{
+  "name": "Adarsh Jaiswal",
+  "username": "Adarsh-jaiss",
+  "avatar": "https://github.com/Adarsh-jaiss.png"
+}
+```
+
+- Add your journey in your `your-github-username.md` file. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently, As you learn something new you can always update your README file).
+- If you want to know what exactly your journey should inculde please refer to &rarr; [What should I share in my journey?](https://collab-community.github.io/journey-book/#/_pages/what-should-i-share).
+- Check out our [contribution guidelines](https://github.com/collab-community/journey-book/blob/main/.github/CONTRIBUTING.md) for more information.
 
 ## Documentation:
   - [What is Journey Book?](../_pages/what-is-this.md)
