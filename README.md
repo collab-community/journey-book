@@ -10,7 +10,25 @@
 
 ## Introduction
 
-This project was created for people who are new to open source, people who don't know how to get started with open source, or people who don't know how to contribute to an open source project. 
+This project was created for people who are new to open source, people who don't know how to get started with open source, or people who don't know how to contribute to an open source project.
+
+## Prerequisites
+
+Before installation, please make sure you have already installed the following tools:
+> If you don't want to install these tools and npm packages. After cloning the repo open `index.html` in your favorite browser.
+
+- [Git](https://git-scm.com/downloads)
+- [NodeJs](https://nodejs.org/en/download/)
+
+## Installation Steps
+
+1. Fork the project
+1. Clone the project
+1. Navigate to the project directory `cd journey-book`
+1. Install dependencies with `npm install`
+1. Run `npm run dev`
+1. Visit `http://localhost:3000` on your favorite browser.
+> The browser will automatically refresh, when you make any changes to the files.
 
 ## How to contribute
 
