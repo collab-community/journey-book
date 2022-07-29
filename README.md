@@ -68,3 +68,13 @@ To add your journey follow the below steps 👇
   - [Why We Created this Project!](../_pages/journey-book.md)
   - [Share Your Experience NOW!!!](../_pages/share-your-experience.md)
   - [What Should My Journey Include?](../_pages/what-should-i-share.md)
+
+## Support
+
+- Create a [GitHub issue](https://github.com/collab-community/journey-book/issues) for bug reports and feature requests.
+- Follow [@collab__](https://twitter.com/collab__) for announcements.
+- Add a ⭐️ [star on GitHub](https://github.com/collab-community/journey-book) and [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fcollab-community%2Fjourney-book%26hashtags%3DJourneyBook%2Cjourneys%2COpenSource%2Ccollab%2CCollabCommunity)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fcollab-community%2Fjourney-book&hashtags=JourneyBook,journeys,OpenSource,collab,CollabCommunity) to support the project!
+
+## License
+
+This project is licensed under the terms of the [MIT](https://github.com/collab-community/journey-book/blob/main/LICENSE) license. © [Adarsh Jaiswal](https://github.com/Adarsh-jaiss)
