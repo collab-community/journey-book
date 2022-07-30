@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[images/Small-Cube.png](https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/Small-Cube.png)" />
+  <img src="https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/Small-Cube.png" />
 </p align="center">
 
 <h1 align="center">Hi! I'm 0xCUBE! Welcome to my journey!</h1>
@@ -40,10 +40,10 @@
 <h2 align="center">Social Links</h2>
 <p align = "center">
   <a href="https://www.reddit.com/user/0xCUBE">
-    <img src="[images/reddit.png](https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/reddit.png)" alt="Reddit" width="40px" />
+    <img src="https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/reddit.png" alt="Reddit" width="40px" />
   </a>
   <a href="https://discord.gg/TtHfDAkx">
-    <img src="[images/Discord-Icon.png](https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/Discord-Icon.png)" alt="Discord" width="40px" />
+    <img src="https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/Discord-Icon.png" alt="Discord" width="40px" />
   </a>
 </p>
 <br>
