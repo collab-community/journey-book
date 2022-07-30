@@ -2,7 +2,7 @@
   <img src="[images/Small-Cube.png](https://raw.githubusercontent.com/0xCUB3/0xCUB3/main/images/Small-Cube.png)" />
 </p align="center">
 
-<h1 align="center">Hi! I'm 0xCUBE! Welcome to my profile!</h1>
+<h1 align="center">Hi! I'm 0xCUBE! Welcome to my journey!</h1>
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/0xCUB3/0xCUB3"/> 
