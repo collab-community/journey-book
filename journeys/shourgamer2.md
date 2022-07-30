@@ -1,4 +1,4 @@
-# [Shourjjo Majumder](https://github.com/shourgamer2)
+# [Shourjjo Majumder's Coding Journey](https://github.com/shourgamer2)
 
 ## How I Began Coding!
 
