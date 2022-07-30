@@ -7,6 +7,7 @@
 <!--START_SECTION:data-section-->
 - Journeys
 
+    - [Abhinav Kar](../journeys/Abhinavkar.md)
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
