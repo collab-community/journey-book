@@ -32,7 +32,7 @@ Other than that ,
 
 ▶️ Spending time with my family👪
 
-▶️ Making other pepole's laugh😄
+▶️ Making other people's laugh😄
 
 # Connect with me 
 
