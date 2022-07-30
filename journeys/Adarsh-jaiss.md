@@ -6,7 +6,7 @@ Other than that ,
 
 📌I am an open source advocate 🚩 & 
 
-📌I am a content creator at  TWITTER, and I give talks on various twitter spaces as well.
+📌I am a content creator on Twitter, and I give talks on various Twitter spaces as well.
 
 📌 I am also the founder of @collab-community which has more than 500+ members, and I conduct sessions every week on our [Discord server](https://discord.com/invite/PGadh3Vyuv).
 
