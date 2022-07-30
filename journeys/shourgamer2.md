@@ -1,3 +1,5 @@
+# [Shourjjo Majumder](https://github.com/shourgamer2)'s Coding Journey
+
 ## How I Began Coding!
 
 I started coding in 2020. It was lockdown and it was boring to play games all day so I decided to learn to code. The first language that I learnt to code was either Python or C#, I'm unsure as of this point.
