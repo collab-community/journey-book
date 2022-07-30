@@ -1,6 +1,6 @@
 # [Kendall Pinto](https://github.com/KendallDoesCoding)'s Coding Journey
 
-- I started doing coding around 2019, it was I believe. I still to this day try to code pretty often, and really like coding.. I do it as a hobby, timepass.
+I am Kendall, from India 🇮🇳. I mostly code Web Dev (HTML, CSS, a little JS) and used to code Python in between. I started doing coding around 2019, it was I believe. I still to this day try to code pretty often, and really like coding.. I do it as a hobby and for timepass. I try to be up to date with the new technolgies as they come out.
 
 ## My Journey
 
@@ -10,7 +10,7 @@
 
 I've faced a lot of problems with my projects and for some projects it took me a long time to fix those problems, but I kept calm and knew that once the problem is fixed, I would acomplish something.
 
-## How did I start Open Source
+## How I started Open Source
 
 I was facinated with open-source and decided that I should contribute to a few interesting projects and hence got into open-source.
 
