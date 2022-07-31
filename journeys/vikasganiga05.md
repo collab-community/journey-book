@@ -15,11 +15,12 @@ I also love doing open source development and contributions. It gives me a wonde
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
 ## 🤝🏻 Connect with Me
-&nbsp; &nbsp; &nbsp;
-[![vikasganiga05 | Twitter](https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png)](https://twitter.com/vikasganiga05)
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/twitter_mtlkia.png" title="Twitter | vikasganiga05" alt="Twitter Account" width="30"/></a>
 &nbsp; &nbsp;
-[![vikasganiga05 | Instagram](https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png)](https://instagram.com/vikasganiga05)
+<a href="https://linkedin.com/in/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linkedin_xaaedy.png" title="LinkedIn | vikasganiga05" alt="LinkedIn Account" width="30"/></a>
 &nbsp; &nbsp;
-[![vikasganiga05 | LinkedIn](https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png)](https://linkedin.com/in/vikasganiga05)
+<a href="https://instagram.com/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/instagram_amcnyc.png" title="Instagram | vikasganiga05" alt="Instagram Account" width="30"/></a>
 &nbsp; &nbsp;
-[![vikasganiga05 | LinkTree](https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/iconfinder_Website_Link-01_2036291_pphqmj.png)](https://linktr.ee/vikasganiga05)
+<a href="https://linktr.ee/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linktree_pqyzqo.png" title="LinkTree | vikasganiga05" alt="LinkTree Account" width="30"/></a>
