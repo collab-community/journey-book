@@ -11,7 +11,7 @@ I also love doing open source development and contributions. It gives me a wonde
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: **Twitter - [@vikasganiga05](https://twitter.com/vikasganiga05)**
-- 💬 Ask me about anything [here](https://github.com/vikasganiga05/vikasganiga05/discussions)
+- 💬 Ask me about anything on my **[GitHub Discussions](https://github.com/vikasganiga05/vikasganiga05/discussions)**
 - ⚡ Fun fact: I like problem solving and I'm a sportsman.
 
 ## 🤝🏻 Connect with Me
