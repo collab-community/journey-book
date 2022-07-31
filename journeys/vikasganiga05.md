@@ -1,8 +1,8 @@
 # [Vikas Ganiga](https://github.com/vikasganiga05)'s Coding Journey
 
-Hi, I am a self-taught Full Stack Developer, Open Source, and Tech Enthusiast from India. I am primarily focused on JavaScript, but my learning style allows me to adapt to new languages and ideologies with ease. I've been building stuff on the web since 2019, I've made countless side projects. I like creating simple and effective UI that optimizes the user experience.
+Hi, I am a self-taught Full Stack Developer, Open Source, and Tech Enthusiast from India. I am primarily focused on JavaScript, but my learning style allows me to adapt to new languages and ideologies with ease. I've been building stuff on the web since 2019. I've made countless side projects. I like creating simple and effective UI that optimizes the user experience.
 
-I also love doing open source development and contributions, It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well planned modularity and extensibility.
+I also love doing open source development and contributions. It gives me a wonderful feeling of achievement and joy which I cannot explain in words. My experience ranges from small personal projects to full production applications capable of scaling and growing through well-planned modularity and extensibility.
 
 #### Here are a few things you should know about me:
 
