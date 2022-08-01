@@ -7,20 +7,15 @@ jobs:
     name: Update README from json data
     steps:
       - name: Checkout local repository
-        uses: actions/checkout@v3
-
-      - name: Push to protected branch
-        uses: CasperWA/push-protected@v2
+        uses: actions/checkout@v2
         with:
           token: ${{ secrets.BOT_ACCESS_TOKEN }}
-          branch: main
-          unprotect_reviews: true
 
       - name: Read/Write data into README
         uses: neontuts/gh-actions-markdown-link-generator@main
         with:
           json-file-path: "Data.json"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_ACCESS_TOKEN }}
           object-field-names: '[ "name", "username" ]'
           file-to-use: "_layouts/sidebar.md"
           html-cell: "- [{{ name }}](../journeys/{{ username }}.md)"
