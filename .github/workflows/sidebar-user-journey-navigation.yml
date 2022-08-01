@@ -9,6 +9,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.BOT_ACCESS_TOKEN }}
+          persist-credentials: false
+          fetch-depth: 0
       - name: Read/Write data into README
         uses: neontuts/gh-actions-markdown-link-generator@main
         with:
