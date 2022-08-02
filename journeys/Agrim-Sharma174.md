@@ -9,7 +9,6 @@ So, I started learning Web Development... did it till CSS, and built few small p
 ## ☞ Challenges
 
 The main challenge which I felt, is consistency...
-For me, I had entrance exams at the time I completed CSS, and I had to focus on them. So, I left web development, because of which I forgot all the concepts and stuff. Then, I had to start all over again. This applies to everyone, whenever we stop practicing something we tend to forget it. So, maintain the consistency, always. 
 
 ## ☞ Currently Learning
 
