@@ -1,6 +1,6 @@
 # [Ebuka Chuqz](https://github.com/Ebukachuqz)'s Journey
 
-I am Ebuka, from Nigeria. I am a MERN Stack developer. It biased preference to backend development. 
+I am Ebuka, from Nigeria. I am a MERN Stack developer, with biased preference to backend development. 
 Asides coding, I love to study psychology, make people laugh, and I am currently trying to make reading a habit.
 
 ## My Journey
