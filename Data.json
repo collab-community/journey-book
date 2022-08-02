@@ -7,7 +7,12 @@
   {
     "name": "Kendall Pinto",
     "username": "KendallDoesCoding",
-    "avatar": "https://github.com/KendallDoesCoding.png"
+    "avatar": "https://raw.githubusercontent.com/KendallDoesCoding/images/main/New-Avatar.png"
+  },
+  {
+    "name": "Alexander",
+    "username": "0xCUB3",
+    "avatar": "https://github.com/0xCUB3.png"
   },
   {
     "name": "Vikas Ganiga",
@@ -29,6 +34,21 @@
     "username": "aryav-v",
     "avatar": "https://github.com/aryav-v.png"
   },
+  {
+    "name": "Ebuka Chuqz",
+    "username": "ebukachuqz",
+    "avatar": "https://github.com/ebukachuqz.png"
+  },
+  {
+    "name": "Abhinav Kar",
+    "username": "Abhinavkar",
+    "avatar": "https://github.com/Abhinavkar.png"
+  },
+  {
+    "name": "Pericles Adjovi",
+    "username": "Pericles001",
+    "avatar": "https://github.com/Pericles001.png"
+  };
   {
     "name": "Agrim Sharma",
     "username": "Agrim-Sharma174",

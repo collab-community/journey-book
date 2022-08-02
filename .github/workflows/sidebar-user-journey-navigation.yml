@@ -6,12 +6,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README from json data
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout local repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.BOT_ACCESS_TOKEN }}
+
       - name: Read/Write data into README
         uses: neontuts/gh-actions-markdown-link-generator@main
         with:
           json-file-path: "Data.json"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.BOT_ACCESS_TOKEN }}
           object-field-names: '[ "name", "username" ]'
           file-to-use: "_layouts/sidebar.md"
           html-cell: "- [{{ name }}](../journeys/{{ username }}.md)"

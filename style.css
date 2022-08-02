@@ -1,11 +1,27 @@
+/* || USER CARD */
+
+#usersList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
 #usersList > li:not(:first-child) {
-    margin-top: 10px;
+  margin-top: 10px;
 }
+
 #usersList > li {
-    display: flex;
-    align-items: center;
-    column-gap: 10px;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
 }
+
 #usersList > li img {
-    border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* || DOCSIFY */
+
+#docsify-darklight-theme {
+  top:8px;
 }
