@@ -1,7 +1,7 @@
 # <h1 align="center">[AzeezTM](https://github.com/AzeezTM)' journey</h1>
 <h2 align="center">A front-end developer from Nigeria</h2>
 
-- i am Mubarak, from Nigeria, i am a front-end developer,a Wildlife Conservationist and an Ecotourist.
+- I am Mubarak, from Nigeria, I am a front-end developer, A Wildlife Conservationist and an Ecotourist.
 
 - i like to tour, i have travelled and visted most of the tourist sites in southwestern Nigeria.
 
