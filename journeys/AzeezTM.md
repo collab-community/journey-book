@@ -22,5 +22,5 @@
 
 [Github](https://github.com/AzeezTM),
 [Twitter](https://twitter.com/Azeeztim)
-Facebook: Azez Tunji Mubarak Atm
-Linkedin: Tunji Mubarak Azeez
+[Facebook](https://wwww.facebook.com/azeez.mubarakatm)
+[Linkedin](https://www.linkedin.com/in/tunji-mubarak-azeez-9986781b5)
