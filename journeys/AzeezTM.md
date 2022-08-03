@@ -14,7 +14,7 @@
 
 - I also learnt JavaScript for two months which I also work on some projects like Picture Puzzle Game, Alarm, Calculator, To-do List. I was given a picture puzzle game as my JavaScript project which I presented. I used drag and drop API to make the picture draggable but I am currently working on the last part, I want a modal to display once the player is able to complete the game.
 
-- i just finish learning Reactjs and i have built a Banking App(https://github.com/AzeezTM/Banking_App) and i'm currently learning Typescript.
+- I just finish learning React-js and I have built a Banking App(https://github.com/AzeezTM/Banking_App) and I'm currently learning Typescript.
 
 - i am currently looking for an internship to get more experience as a Software Developer
 
