@@ -21,6 +21,6 @@
 ## Connect with me
 
 [Github](https://github.com/AzeezTM),
-[Twitter](@Azeeztim)
+[Twitter](https://twitter.com/Azeeztim)
 Facebook: Azez Tunji Mubarak Atm
 Linkedin: Tunji Mubarak Azeez
