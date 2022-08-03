@@ -3,7 +3,7 @@
 
 - I am Mubarak, from Nigeria, I am a front-end developer, A Wildlife Conservationist and an Ecotourist.
 
-- i like to tour, i have travelled and visted most of the tourist sites in southwestern Nigeria.
+- I like to tour, I have travelled and visited most of the tourist sites in southwestern Nigeria.
 
 - i am currently learning some programming languages so that i will use it to build projects that will be useful in conserving wildlife and to create innovative travel software solutions.
 
