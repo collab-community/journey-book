@@ -12,7 +12,7 @@
 
 - I was taught HTML, CSS, Bootstrap within two months which i designed some projects within the two months.
 
-- i also learnt javascript for two months which i also work on some projects like Picture puzzle game,Alarm,Calculator, Todo List. I was given a picture puzzle game as my javascript project which i presented.i used drag and drop API to make the picture draggable but i am currently working on the last part,i want a modal to display once the player is able to complete the game.
+- I also learnt JavaScript for two months which I also work on some projects like Picture Puzzle Game, Alarm, Calculator, To-do List. I was given a picture puzzle game as my JavaScript project which I presented. I used drag and drop API to make the picture draggable but I am currently working on the last part, I want a modal to display once the player is able to complete the game.
 
 - i just finish learning Reactjs and i have built a Banking App(https://github.com/AzeezTM/Banking_App) and i'm currently learning Typescript.
 
