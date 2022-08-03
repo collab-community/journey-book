@@ -8,7 +8,7 @@
 - I am currently learning some programming languages so that I will use it to build projects that will be useful in conserving wildlife and to create innovative travel software solutions.
 
 ## My Journey
-- i started coding this january, 2022 where i learnt how to code at SQI College of ICT,Ibadan, Nigeria.
+- I started coding this January, 2022 where I learnt how to code at SQI College of ICT, Ibadan, Nigeria.
 
 - I was taught HTML, CSS, Bootstrap within two months which i designed some projects within the two months.
 
