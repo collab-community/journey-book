@@ -16,5 +16,4 @@
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Shourjjo Majumder](../journeys/shourgamer2.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
-   
 <!--END_SECTION:data-section-->
