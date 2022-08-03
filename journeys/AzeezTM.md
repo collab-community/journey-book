@@ -5,7 +5,7 @@
 
 - I like to tour, I have travelled and visited most of the tourist sites in southwestern Nigeria.
 
-- i am currently learning some programming languages so that i will use it to build projects that will be useful in conserving wildlife and to create innovative travel software solutions.
+- I am currently learning some programming languages so that I will use it to build projects that will be useful in conserving wildlife and to create innovative travel software solutions.
 
 ## My Journey
 - i started coding this january, 2022 where i learnt how to code at SQI College of ICT,Ibadan, Nigeria.
