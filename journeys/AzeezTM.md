@@ -16,7 +16,7 @@
 
 - I just finish learning React-js and I have built a Banking App(https://github.com/AzeezTM/Banking_App) and I'm currently learning Typescript.
 
-- i am currently looking for an internship to get more experience as a Software Developer
+- I am currently looking for an internship to get more experience as a Software Developer
 
 ## Connect with me
 
