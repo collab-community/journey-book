@@ -9,6 +9,7 @@
 
     - [Abhinav Kar](../journeys/Abhinavkar.md)
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
+    - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
     - [Alexander](../journeys/0xCUB3.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
