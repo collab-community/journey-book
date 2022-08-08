@@ -5,7 +5,7 @@
 
 - My hobbies include traveling, coding, and playing sports like Tennis and Soccer.
 
-- I am currently learning a couple of programming languages and using them to build projects to proFfer solutions and solve problems.
+- I am currently learning a couple of programming languages and using them to build projects to proffer solutions and solve problems.
 
 ## My Journey
 - I started learning coding in June 2021, when I wrote my first "Hello World".
