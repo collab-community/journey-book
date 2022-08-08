@@ -5,18 +5,18 @@
 
 - My hobbies include traveling, coding, and playing sports like Tennis and Soccer.
 
-- I am currently learning a couple of programming languages and using them to build projects to profer solutions and solve problems.
+- I am currently learning a couple of programming languages and using them to build projects to proFfer solutions and solve problems.
 
 ## My Journey
-- I started learning coding in June 2021, when i wrote my first "Hello World".
+- I started learning coding in June 2021, when I wrote my first "Hello World".
 
-- I was taught HTML, CSS, Bootstrap within two months, of which i designed some projects. My learning course was interrupted for about 5 months due to my academics, but i returned back to continue learning.  
+- I was taught HTML, CSS and Bootstrap within two months, of which I designed some projects. My learning course was interrupted for about 5 months due to my academics, but I returned back to continue learning.  
 
-- I also learnt JavaScript and worked on some projects like Beat-maker project,Weather app, a travel website, To-do List. I learned how to make animations using GSAP library and Scrollmagic which i used effectively in the travel site. 
+- I also learned JavaScript and worked on some projects like Beat-maker project,Weather app, a travel website, To-do List. I learned how to make animations using GSAP library and Scrollmagic which i used effectively in the travel site. 
 
 - I am currently learning React-js and I have built a Banking App and also an E-commerce App.
 
-- I am currently looking for internship oppotunities to get more knowledge and experience as a Software Developer.
+- I am currently looking for internship oportunities to get more knowledge and experience as a Software Developer.
 
 ## Connect with me
 
