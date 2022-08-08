@@ -12,7 +12,7 @@
 
 - I was taught HTML, CSS and Bootstrap within two months, of which I designed some projects. My learning course was interrupted for about 5 months due to my academics, but I returned back to continue learning.  
 
-- I also learned JavaScript and worked on some projects like Beat-maker project,Weather app, a travel website, To-do List. I learned how to make animations using GSAP library and Scrollmagic which i used effectively in the travel site. 
+- I also learned JavaScript and worked on some projects like Beat-maker project,Weather app, a travel website, To-do List. I learned how to make animations using GSAP library and Scrollmagic which I used effectively in the travel site. 
 
 - I am currently learning React-js and I have built a Banking App and also an E-commerce App.
 
