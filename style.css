@@ -1,10 +1,11 @@
 /* || USER CARD */
 
-.user-list {
+#user-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1rem;
   list-style: none;
+  padding-left: 0;
 }
 
 .user-card {
