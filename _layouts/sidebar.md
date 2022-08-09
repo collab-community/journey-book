@@ -18,6 +18,7 @@
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Pericles Adjovi](../journeys/Pericles001.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
+    - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Shourjjo Majumder](../journeys/shourgamer2.md)
     - [Tunji Mubarak Azeez](../journeys/AzeezTM.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
