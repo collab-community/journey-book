@@ -13,6 +13,7 @@
     - [Alexander](../journeys/0xCUB3.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
+    - [Demilade Ayoola](../journeys/Demilade-Ayoola.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Pericles Adjovi](../journeys/Pericles001.md)
