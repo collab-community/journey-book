@@ -17,6 +17,7 @@
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Pericles Adjovi](../journeys/Pericles001.md)
+    - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Shourjjo Majumder](../journeys/shourgamer2.md)
