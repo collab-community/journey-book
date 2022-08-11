@@ -12,7 +12,7 @@ Other than that ,
 
 # Projects i have worked on
 
-- created a fully functioning job searching and placement android application for a startup.
+- Created a fully functioning job searching and placement android application for a startup.
 - Created backend of an e-commerce like startup from scratch involving all kind of functioning like CRUD requests, searching and hosting on AWS.
 - Created other android applications as a project like recipe app and the shop app.
 
