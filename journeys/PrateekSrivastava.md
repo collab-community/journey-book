@@ -17,7 +17,7 @@ Other than that ,
 - created other android applications as a project like recipe app and the shop app.
 
 
-# Other than coding , i love 
+# Other than coding , I love
 
 ▶️ Reading books📖 based on Marketing, Startups, and Self growth💡
 
