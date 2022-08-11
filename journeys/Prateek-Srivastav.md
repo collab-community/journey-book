@@ -10,6 +10,13 @@ Other than that ,
 
 
 
+
+
+
+
+
+
+
 # Projects I have worked on
 
 - Created a fully functioning job searching and placement android application for a startup.
@@ -17,7 +24,7 @@ Other than that ,
 - Created other android applications as a project like recipe app and the shop app.
 
 
-# Other than coding , I love
+# Other than coding, I love
 
 ▶️ Reading books📖 based on Marketing, Startups, and Self growth💡
 
@@ -27,7 +34,7 @@ Other than that ,
 
 # Connect with me 
 
-➡️ Linkedln - Prateek Srivastava (https://www.linkedin.com/in/prateek-sri)
+➡️ LinkedIn - [Prateek Srivastava](https://www.linkedin.com/in/prateek-sri)
 
 ➡️ Discord - insigne#2716 
 
