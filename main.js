@@ -43,7 +43,7 @@ window.$docsify = {
     bodyFontSize : '17px',
     dark: {
         accent: '#42b983',
-        toogleBackground : '#ffffff',
+        toogleBackground : '#171717',
         background: '#091a28',
         textColor: '#b4b4b4',
         codeTextColor : '#ffffff',
