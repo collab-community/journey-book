@@ -16,6 +16,7 @@
     - [Demilade Ayoola](../journeys/Demilade-Ayoola.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
+    - [Namya Khan](../journeys/namyakhan.md)
     - [Pericles Adjovi](../journeys/Pericles001.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
