@@ -4,13 +4,6 @@
     "username": "Adarsh-jaiss",
     "avatar": "https://github.com/Adarsh-jaiss.png"
   },
-
-  {
-    "name": "Namya Khan",
-    "username": "namyakhan",
-    "avatar": "https://github.com/namyakhan.png"
-  },
-
   {
     "name": "Kendall Pinto",
     "username": "KendallDoesCoding",
@@ -85,5 +78,10 @@
     "name": "Prateek Srivastava",
     "username": "Prateek-Srivastav",
     "avatar": "https://github.com/Prateek-Srivastav.png"
+  },
+  {
+    "name": "Namya Khan",
+    "username": "namyakhan",
+    "avatar": "https://github.com/namyakhan.png"
   }
 ]
