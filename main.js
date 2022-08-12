@@ -59,7 +59,7 @@ window.$docsify = {
     light: {
         accent: '#42b983',
         toogleBackground : '#ffffff',
-        background: '#171717',
+        background: '##ffffff',
         textColor: '#b4b4b4',
     }
 }
