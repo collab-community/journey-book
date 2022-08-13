@@ -15,6 +15,7 @@
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Demilade Ayoola](../journeys/Demilade-Ayoola.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
+    - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Kendall Pinto](../journeys/KendallDoesCoding.md)
     - [Namya Khan](../journeys/namyakhan.md)
     - [Pericles Adjovi](../journeys/Pericles001.md)
