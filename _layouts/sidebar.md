@@ -15,6 +15,7 @@
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
+    - [Lubna Fathima](../journeys/lubnafathima.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
