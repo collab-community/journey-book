@@ -17,6 +17,7 @@
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
+    - [Richard Jeremy Githuba](../journeys/githubarj.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
