@@ -14,6 +14,7 @@
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
+    - [Habeeb B. Oyesile](../journeys/badbatunde.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
     - [Moheshwar Amarnath Biswas](../journeys/fluentmoheshwar.md)
