@@ -64,10 +64,10 @@ To add your journey follow the below steps 👇
 - Check out our [contribution guidelines](https://github.com/collab-community/journey-book/blob/main/.github/CONTRIBUTING.md) for more information.
 
 ## Documentation:
-  - [What is Journey Book?](../_pages/what-is-this.md)
-  - [Why We Created this Project!](../_pages/journey-book.md)
-  - [Share Your Experience NOW!!!](../_pages/share-your-experience.md)
-  - [What Should My Journey Include?](../_pages/what-should-i-share.md)
+  - [What is Journey Book?](/_pages/what-is-this.md)
+  - [Why We Created this Project!](/_pages/journey-book.md)
+  - [Share Your Experience NOW!!!](/_pages/share-your-experience.md)
+  - [What Should My Journey Include?](/_pages/what-should-i-share.md)
 
 ## Support
 

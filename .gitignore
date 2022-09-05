@@ -1,3 +1,11 @@
+# macOS
 .DS_Store
-.vscode
+
+# visual studio code
+.vscode/*
+
+# dependencies
 node_modules
+
+# yarn
+yarn.lock

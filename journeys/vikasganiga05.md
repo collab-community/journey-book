@@ -23,4 +23,4 @@ I also love doing open source development and contributions. It gives me a wonde
 &nbsp; &nbsp;
 <a href="https://instagram.com/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/instagram_amcnyc.png" title="Instagram | vikasganiga05" alt="Instagram Account" width="30"/></a>
 &nbsp; &nbsp;
-<a href="https://linktr.ee/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1659228895/Icons/linktree_pqyzqo.png" title="LinkTree | vikasganiga05" alt="LinkTree Account" width="30"/></a>
+<a href="https://linktr.ee/vikasganiga05"><img src="https://res.cloudinary.com/neontuts/image/upload/v1660498052/Icons/linktree_kfxyha.png" title="LinkTree | vikasganiga05" alt="LinkTree Account" width="30"/></a>

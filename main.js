@@ -36,8 +36,34 @@ window.$docsify = {
         .catch((err) => console.log(err));
     },
   },
+  darklightTheme: {
+    siteFont : "PT Sans",
+    defaultTheme : 'dark',
+    codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+    bodyFontSize : '17px',
+    dark: {
+        accent: '#42b983',
+        toogleBackground : '#ffffff',
+        background: '#171717',
+        textColor: '#b4b4b4',
+        codeTextColor : '#ffffff',
+        codeBackgroundColor : '#171717',
+        borderColor : '#0d2538',
+        blockQuoteColor : '#858585',
+        highlightColor : '#d22778',
+        sidebarSublink : '#b4b4b4',
+        codeTypeColor : '#ffffff',
+        coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+        toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+    },
+    light: {
+        accent: '#42b983',
+        toogleBackground : '#ffffff',
+        background: '##ffffff',
+        textColor: '#b4b4b4',
+    }
+}
 };
-
 // Function to sort the users alphabetically
 const sortUsers = (users) => {
   const sortedUsers = users.sort((a, b) => {

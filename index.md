@@ -2,8 +2,6 @@
 
 You've come to the fun part! Tap ANY name below to see their coding journey and get inspired!!
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/collab-community/journey-book)
-
 <ul id="user-list">
   <li class="user-card" v-for="user in users" :key="user.username">
     <a :href="'#/journeys/' + user.username">
