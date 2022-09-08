@@ -7,6 +7,7 @@
 <!--START_SECTION:data-section-->
 - Journeys
 
+    - [Abbey Santos](../journeys/AbbeyIT.md)
     - [Abhinav Kar](../journeys/Abhinavkar.md)
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
     - [Aditya Joshi](../journeys/adityajoshi-08.md)
