@@ -21,6 +21,7 @@
     - [Moheshwar Amarnath Biswas](../journeys/fluentmoheshwar.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
+    - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
