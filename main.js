@@ -83,7 +83,7 @@ const sortUsers = (users) => {
 // Update Favicon
 window.addEventListener("hashchange", function () {
   if (!location.hash.startsWith("#/journeys")) {
-    document.getElementById("favicon").setAttribute("href", "./favicon.ico");
+    document.getElementById("favicon").setAttribute("href", "./assets/favicon.ico");
   } else {
     const username = location.hash.split("/")[2];
     const user = userData.find((user) => user.username === username);
