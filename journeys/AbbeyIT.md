@@ -6,7 +6,7 @@ Heya, I am Abbey 👋. I am currently learning Back-End Web Development and Clou
 
 👩‍💻 I write blogs and I'm currently working on publishing my cloud series.
 
-👩‍💻 I'm interest in computer networking. 
+👩‍💻 I'm interested in computer networking. 
 
 👩‍💻 I want to be either DevOps Engineer, System Administrator or Cloud Network Engineer. 
 
