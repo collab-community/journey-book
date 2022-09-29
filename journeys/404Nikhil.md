@@ -10,7 +10,9 @@ Web Developer | Exploring Web | Loves Problem Solving
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/404Nikhil/open-source-badges/)
 - 🏫 I'm currently learning **DSA & Full Stack**
 - 🤩 I'm open to collaborating on Web Development and Open Source
-- 🌍  I'm based in Pune, Maharashtra, INDIA
+- 🌍 I'm based in Pune, Maharashtra, INDIA
+- 🎋 Currently working on a To-Do APP and my Portfolio Website.
+
 
  ## Socials
 
