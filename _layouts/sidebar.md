@@ -19,6 +19,7 @@
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
     - [Moheshwar Amarnath Biswas](../journeys/fluentmoheshwar.md)
+    - [Nikhil Dhariwal](../journeys/404Nikhil.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
