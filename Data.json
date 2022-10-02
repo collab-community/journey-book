@@ -1,97 +1,102 @@
 [
-  {
-    "name": "Adarsh Jaiswal",
-    "username": "Adarsh-jaiss",
-    "avatar": "https://github.com/Adarsh-jaiss.png"
-  },
-  {
-    "name": "Vikas Ganiga",
-    "username": "vikasganiga05",
-    "avatar": "https://github.com/vikasganiga05.png"
-  },
-  {
-    "name": "Sambhav Gupta",
-    "username": "sambhavgupta0705",
-    "avatar": "https://github.com/sambhavgupta0705.png"
-  },
-  {
-    "name": "Aryav Chaturvedi",
-    "username": "aryav-v",
-    "avatar": "https://github.com/aryav-v.png"
-  },
-  {
-    "name": "Ebuka Chuqz",
-    "username": "ebukachuqz",
-    "avatar": "https://github.com/ebukachuqz.png"
-  },
-  {
-    "name": "Abhinav Kar",
-    "username": "Abhinavkar",
-    "avatar": "https://github.com/Abhinavkar.png"
-  },
-  {
-    "name": "Agrim Sharma",
-    "username": "Agrim-Sharma174",
-    "avatar": "https://github.com/Agrim-Sharma174.png"
-  },
-  {
-    "name": "Ayushi George",
-    "username": "ayushigeorge",
-    "avatar": "https://github.com/ayushigeorge.png"
-  },
-  {
-    "name": "Sandeep Urankar",
-    "username": "SandeepUrankar",
-    "avatar": "https://github.com/SandeepUrankar.png"
-  },
-  {
-    "name": "Prateek Srivastava",
-    "username": "Prateek-Srivastav",
-    "avatar": "https://github.com/Prateek-Srivastav.png"
-  },
-  {
-    "name": "Kelvin Parmar",
-    "username": "kelvinparmar",
-    "avatar": "https://github.com/kelvinparmar.png"
-  },
-  {
-    "name": "Richard Jeremy Githuba",
-    "username": "githubarj",
-    "avatar": "https://github.com/githubarj.png"
-  },
-  {
-    "name": "Lubna Fathima",
-    "username": "lubnafathima",
-    "avatar": "https://github.com/lubnafathima.png"
-  },
-  {
-    "name": "Aditya Joshi",
-    "username": "adityajoshi-08",
-    "avatar": "https://github.com/adityajoshi-08.png"
-  },
-  {
-    "name": "Moheshwar Amarnath Biswas",
-    "username": "fluentmoheshwar",
-    "avatar": "https://github.com/fluentmoheshwar.png"
-  },
-  {
-    "name": "Habeeb B. Oyesile",
-    "username": "badbatunde",
-    "avatar": "https://github.com/badbatunde.png"
-  },
-  {
-    "name": "Abbey Santos",
-    "username": "AbbeyIT",
-    "avatar": "https://github.com/AbbeyIT.png"
-  },
-  {
-    "name": "Rohit Rajvaidya",
-    "username": "RohitRajvaidya5",
-    "avatar": "https://avatars.githubusercontent.com/u/109543331?s=400&u=4a0139e40e7ede6e65c206f6dcbe0ac7ae0c4092&v=4"
-  },
-  {
-    "name": "Nikhil Dhariwal",
-    "username": "404Nikhil",
-    "avatar": "https://github.com/404Nikhil.png"
-  }
+	{
+		"name": "Adarsh Jaiswal",
+		"username": "Adarsh-jaiss",
+		"avatar": "https://github.com/Adarsh-jaiss.png"
+	},
+	{
+		"name": "Vikas Ganiga",
+		"username": "vikasganiga05",
+		"avatar": "https://github.com/vikasganiga05.png"
+	},
+	{
+		"name": "Sambhav Gupta",
+		"username": "sambhavgupta0705",
+		"avatar": "https://github.com/sambhavgupta0705.png"
+	},
+	{
+		"name": "Aryav Chaturvedi",
+		"username": "aryav-v",
+		"avatar": "https://github.com/aryav-v.png"
+	},
+	{
+		"name": "Ebuka Chuqz",
+		"username": "ebukachuqz",
+		"avatar": "https://github.com/ebukachuqz.png"
+	},
+	{
+		"name": "Abhinav Kar",
+		"username": "Abhinavkar",
+		"avatar": "https://github.com/Abhinavkar.png"
+	},
+	{
+		"name": "Agrim Sharma",
+		"username": "Agrim-Sharma174",
+		"avatar": "https://github.com/Agrim-Sharma174.png"
+	},
+	{
+		"name": "Ayushi George",
+		"username": "ayushigeorge",
+		"avatar": "https://github.com/ayushigeorge.png"
+	},
+	{
+		"name": "Sandeep Urankar",
+		"username": "SandeepUrankar",
+		"avatar": "https://github.com/SandeepUrankar.png"
+	},
+	{
+		"name": "Prateek Srivastava",
+		"username": "Prateek-Srivastav",
+		"avatar": "https://github.com/Prateek-Srivastav.png"
+	},
+	{
+		"name": "Kelvin Parmar",
+		"username": "kelvinparmar",
+		"avatar": "https://github.com/kelvinparmar.png"
+	},
+	{
+		"name": "Richard Jeremy Githuba",
+		"username": "githubarj",
+		"avatar": "https://github.com/githubarj.png"
+	},
+	{
+		"name": "Lubna Fathima",
+		"username": "lubnafathima",
+		"avatar": "https://github.com/lubnafathima.png"
+	},
+	{
+		"name": "Aditya Joshi",
+		"username": "adityajoshi-08",
+		"avatar": "https://github.com/adityajoshi-08.png"
+	},
+	{
+		"name": "Moheshwar Amarnath Biswas",
+		"username": "fluentmoheshwar",
+		"avatar": "https://github.com/fluentmoheshwar.png"
+	},
+	{
+		"name": "Habeeb B. Oyesile",
+		"username": "badbatunde",
+		"avatar": "https://github.com/badbatunde.png"
+	},
+	{
+		"name": "Abbey Santos",
+		"username": "AbbeyIT",
+		"avatar": "https://github.com/AbbeyIT.png"
+	},
+	{
+		"name": "Rohit Rajvaidya",
+		"username": "RohitRajvaidya5",
+		"avatar": "https://avatars.githubusercontent.com/u/109543331?s=400&u=4a0139e40e7ede6e65c206f6dcbe0ac7ae0c4092&v=4"
+	},
+	{
+		"name": "Nikhil Dhariwal",
+		"username": "404Nikhil",
+		"avatar": "https://github.com/404Nikhil.png"
+	},
+	{
+		"name": "Harsh Waghela",
+		"username": "styrene01",
+		"avatar": "https://github.com/styrene01.png"
+	}
 ]
