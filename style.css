@@ -13,6 +13,13 @@
   background-color: var(--borderColor);
   border-radius: 10px;
   border: 1px solid var(--accent);
+  transition: all 0.3s;
+}
+
+.user-card:hover {
+  border-width: 2px;
+  transform: scale(1.05);
+  filter: brightness(1.3);
 }
 
 .user-card a {
@@ -42,4 +49,9 @@
 
 #docsify-darklight-theme {
   top: 8px;
+}
+
+.sidebar ul li a:hover{
+    color: var(--accent);
+    text-decoration: none;
 }
