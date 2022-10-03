@@ -28,5 +28,6 @@
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
+    - [Sneha Agarwal](../journeys/isyneha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
 <!--END_SECTION:data-section-->
