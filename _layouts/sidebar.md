@@ -24,6 +24,7 @@
     - [Nikhil Dhariwal](../journeys/404Nikhil.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
+    - [Ritika Agrawal](../journeys/Ritika-Agrawal811.md)
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
