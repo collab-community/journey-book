@@ -17,6 +17,7 @@
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Habeeb B. Oyesile](../journeys/badbatunde.md)
+    - [Harsh Waghela](../journeys/styrene01.md)
     - [Hritesh Goldar](../journeys/hritesh94.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
@@ -24,8 +25,10 @@
     - [Nikhil Dhariwal](../journeys/404Nikhil.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
+    - [Ritika Agrawal](../journeys/Ritika-Agrawal811.md)
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
+    - [Sneha Agarwal](../journeys/isyneha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
 <!--END_SECTION:data-section-->
