@@ -17,6 +17,7 @@
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Habeeb B. Oyesile](../journeys/badbatunde.md)
+    - [Harsh Waghela](../journeys/styrene01.md)
     - [Hritesh Goldar](../journeys/hritesh94.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
