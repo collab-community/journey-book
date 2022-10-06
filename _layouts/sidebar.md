@@ -16,6 +16,7 @@
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Arpit Ghura](../journeys/arpitghura.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
+    - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
     - [Ayush Rawat](../journeys/ayushrtwt.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Divas](../journeys/divasgt.md)
