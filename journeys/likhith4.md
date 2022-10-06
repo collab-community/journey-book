@@ -3,7 +3,7 @@
 [![@likhith's Holopin board](https://holopin.io/api/user/board?user=likhith)](https://holopin.io/@likhith)
 I'm newbie to Open Source
 Hello there I'm a self taught Front-end web developer(learning in progress) Open Source enthusiast from 🇮🇳 . First and foremost I'm focused in learning and making myself comfortable in CSS and CSS frameworks.
-I also relish contributing to Open Source projects pondering around Python 🐍 and collabarating with folks around the globe 
+I also relish contributing to Open Source projects pondering around Python 🐍 and collaborating with folks around the globe.
 
 #### Here are a few things you should know about me:
 
