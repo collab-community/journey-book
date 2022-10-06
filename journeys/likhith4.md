@@ -8,7 +8,7 @@ I also relish contributing to Open Source projects pondering around Python 🐍 
 #### Here are a few things you should know about me:
 
 
-- 🌱 I’m currently learning **BootStrap and Java DSA **.
+- 🌱 I’m currently learning **BootStrap and Java DSA**.
 - 👯 I’m looking to collaborate with other Open source enthusiasts and Devlopers 
 - 🥅 Goals: right now Eat--Sleep--Contribute (Repeat)
 - 📫 How to reach me: **- - [Twitter](https://twitter.com/LikhithK14)**
