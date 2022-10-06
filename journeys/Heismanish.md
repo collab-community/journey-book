@@ -1,0 +1,29 @@
+# Manish's Journey
+
+## ☞ The Start!
+
+All this started with from Youtube...
+One day I found randomly came across this guy named Kunal Kuhswaha in a podcast with Ishan Sharma and from there I developed a interest towards not just gsoc a=but about this whole open source thing. Then I started following Kunal Kushwaha and fromm their my coding journey started fron learning Java and getting exposed a very amazing field of DevOps and to open source. 
+
+Though by that time I already had my interest set on Android dev and I got started with my Android journey from Learning kotlin to making some decent projects on Android. And during this time when I was learning Android dev I made a huge mistake of not exploring other field like web dev, DevOps and open source despite not having so much fun with Android dev. It was just a mtter of time before I realised this mistake of mine and soon after that I reconsiderd everything I was doing and decided to explore web-dev and devops and also got started with open source contribution and this realisation was just 1.5 months a ago from today that is 5/10/2022. So yeah now I'm doing web dev and yeah it sure is fun.
+
+
+## ☞ Currently Learning
+
+Currently, I am focussed on:
+<li> Front End Web development </li>
+<li> Makinig projects on whatever tech I'm learning, at present it is HTML+CSS. </li>
+<li> Contributing to open source </li>
+<li> Getting involved in open source communities</li>
+
+
+## ☞ Interests
+
+- I want to learn full-stack Web Development, and then want to explore DevOps field. 
+- Also there is open source programs like gsoc, mlh, github campus expert that interests me a lot, so working to achieve them. 
+
+## ☞ Connect With Me !
+
+You can find me on [Twitter](https://twitter.com/_heismanish) and [GitHub](https://github.com/Heismanish)
+
+### HAPPY CODING Folks !!
