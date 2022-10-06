@@ -15,6 +15,7 @@
     - [Aishwar Pathak](../journeys/mrworld196wide.md)
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
+    - [Ayush Rawat](../journeys/ayushrtwt.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Divas](../journeys/divasgt.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
