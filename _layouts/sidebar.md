@@ -26,6 +26,7 @@
     - [Hritesh Goldar](../journeys/hritesh94.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
+    - [Manish Kumar Gupta](../journeys/Heismanish.md)
     - [Manish Pokhrel](../journeys/manishpoko.md)
     - [Md Sohail Ansari](../journeys/sohail60.md)
     - [Moheshwar Amarnath Biswas](../journeys/fluentmoheshwar.md)
