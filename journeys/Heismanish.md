@@ -3,7 +3,7 @@
 ## ☞ The Start!
 
 All this started with from Youtube...
-One day I found randomly came across this guy named Kunal Kuhswaha in a podcast with Ishan Sharma and from there I developed a interest towards not just gsoc a=but about this whole open source thing. Then I started following Kunal Kushwaha and fromm their my coding journey started fron learning Java and getting exposed a very amazing field of DevOps and to open source. 
+One day I randomly came across this guy named Kunal Kuhswaha in a podcast with Ishan Sharma and from there I developed an interest in not just gsoc but also in this whole open source thing. Then I started following Kunal Kushwaha and from there my coding journey started from learning Java and getting exposed to a very amazing field of DevOps and open source.
 
 Though by that time I already had my interest set on Android dev and I got started with my Android journey from learning kotlin to making some decent projects on Android. And during this time when I was learning Android dev, I made a huge mistake of not exploring other fields like web dev, DevOps, and open source despite not having so much fun with Android dev. It was just a matter of time before I realized this mistake of mine and soon after that I reconsidered everything I was doing and decided to explore web-dev and DevOps and also got started with open source contribution, and this realization was just 1.5 months ago from today, that is 5/10/2022. So yeah, now I'm doing web dev and yeah, it sure is fun.
 
