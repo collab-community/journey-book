@@ -16,6 +16,7 @@
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
+    - [Divas](../journeys/divasgt.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Habeeb B. Oyesile](../journeys/badbatunde.md)
     - [Harsh Waghela](../journeys/styrene01.md)
