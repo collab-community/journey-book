@@ -17,9 +17,7 @@
 }
 
 .user-card:hover {
-  border-width: 2px;
-  transform: scale(1.05);
-  filter: brightness(1.3);
+  transform: scale(1.04);
 }
 
 .user-card a {
