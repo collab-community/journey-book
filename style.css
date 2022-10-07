@@ -50,6 +50,6 @@
 }
 
 .sidebar ul li a:hover{
-    color: var(--accent);
-    text-decoration: none;
+  color: var(--accent);
+  text-decoration: none;
 }
