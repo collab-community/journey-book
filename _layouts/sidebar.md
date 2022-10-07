@@ -19,6 +19,7 @@
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
     - [Ayush Rawat](../journeys/ayushrtwt.md)
+    - [Ayush Sarode](../journeys/AyushSarode.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
     - [Divas](../journeys/divasgt.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
