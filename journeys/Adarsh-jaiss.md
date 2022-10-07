@@ -15,14 +15,6 @@ Other than that ,
 📌 I am also the part of memphis.dev release team V.0.3.5
 # Projects i have worked on
 
-- Journey Book 📖 : (created this open source project for folks who wants to contribute to open source , but didn't have any idea how to get started)
- 
-- Created a fuly functioning calculator using python 🐍.
-
-- I am also trying to contribute to kubernates (I helped my friend in creating some PR's in Kubernates repository).
-
-- 100 days of code :
-   (I am currently  working on this project . Our main purpose behind this project is to maintain consistency of folks who are practicing 100daysofcode and also encourage them to contribute to open source). 
 
 
 # Other than coding , i love 
