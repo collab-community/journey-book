@@ -9,6 +9,7 @@
 
     - [Abbey Santos](../journeys/AbbeyIT.md)
     - [Abhinav Kar](../journeys/Abhinavkar.md)
+    - [Abhishek Yadav](../journeys/bugsyy157.md)
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
     - [Aditya Joshi](../journeys/adityajoshi-08.md)
     - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
@@ -25,6 +26,7 @@
     - [Harsh Waghela](../journeys/styrene01.md)
     - [Hritesh Goldar](../journeys/hritesh94.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
+    - [Likhith K](../journeys/likhith4.md)
     - [Lubna Fathima](../journeys/lubnafathima.md)
     - [Manish Kumar Gupta](../journeys/Heismanish.md)
     - [Manish Pokhrel](../journeys/manishpoko.md)
