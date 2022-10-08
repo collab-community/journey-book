@@ -38,6 +38,7 @@
     - [Pratap Parui](../journeys/pratap360.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
     - [Rafaela Grison](../journeys/GRISONRF.md)
+    - [Raj Tiwari](../journeys/ausie8526.md)
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
     - [Ritika Agrawal](../journeys/Ritika-Agrawal811.md)
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
