@@ -35,6 +35,7 @@
     - [Md Sohail Ansari](../journeys/sohail60.md)
     - [Moheshwar Amarnath Biswas](../journeys/fluentmoheshwar.md)
     - [Nikhil Dhariwal](../journeys/404Nikhil.md)
+    - [Paramhans Singh](../journeys/Paramhans-Singh.md)
     - [Pranit Utekar](../journeys/Pranit-02.md)
     - [Pratap Parui](../journeys/pratap360.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
