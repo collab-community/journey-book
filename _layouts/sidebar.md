@@ -48,4 +48,5 @@
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Sneha Agarwal](../journeys/isyneha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
+    - [Vita Tran](../journeys/vita-tran.md)
 <!--END_SECTION:data-section-->
