@@ -15,6 +15,7 @@
     - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
     - [Aishwar Pathak](../journeys/mrworld196wide.md)
     - [Akshat Mishra](../journeys/akshatmishra25.md)
+    - [Akshat Mishra](../journeys/hugekontrast.md)
     - [Arpit Ghura](../journeys/arpitghura.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
