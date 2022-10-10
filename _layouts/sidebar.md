@@ -15,6 +15,7 @@
     - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
     - [Aishwar Pathak](../journeys/mrworld196wide.md)
     - [Akshat Mishra](../journeys/akshatmishra25.md)
+    - [Akshat Mishra](../journeys/hugekontrast.md)
     - [Arpit Ghura](../journeys/arpitghura.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
@@ -46,6 +47,8 @@
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
+    - [Savi Jain](../journeys/Savijain.md)
     - [Sneha Agarwal](../journeys/isyneha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
+    - [Vita Tran](../journeys/vita-tran.md)
 <!--END_SECTION:data-section-->

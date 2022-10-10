@@ -13,7 +13,7 @@ Other than that ,
 📌 In my spare time, I love Working on projects ideas and contributing to open source.
 
 📌 I am also the part of memphis.dev release team V.0.3.5
-# Projects i have worked on
+
 
 
 
