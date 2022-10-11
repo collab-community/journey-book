@@ -7,12 +7,14 @@
 <!--START_SECTION:data-section-->
 - Journeys
 
+    - [Aayushi Mittal](../journeys/Aayushi-Mittal.md)
     - [Abbey Santos](../journeys/AbbeyIT.md)
     - [Abhinav Kar](../journeys/Abhinavkar.md)
     - [Abhishek Yadav](../journeys/bugsyy157.md)
     - [Adarsh Jaiswal](../journeys/Adarsh-jaiss.md)
     - [Aditya Joshi](../journeys/adityajoshi-08.md)
     - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
+    - [Ahnaf Ahamed](../journeys/AhnafAhamed.md)
     - [Aishwar Pathak](../journeys/mrworld196wide.md)
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Akshat Mishra](../journeys/hugekontrast.md)
