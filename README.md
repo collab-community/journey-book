@@ -45,7 +45,6 @@ To add your journey follow the below steps 👇
 {
   "name": "YOUR_NAME",
   "username": "YOUR_GITHUB_USERNAME",
-  "avatar": "https://github.com/YOUR_GITHUB_USERNAME.png"
 }
 ```
 
@@ -55,7 +54,6 @@ To add your journey follow the below steps 👇
 {
   "name": "Adarsh Jaiswal",
   "username": "Adarsh-jaiss",
-  "avatar": "https://github.com/Adarsh-jaiss.png"
 }
 ```
 
