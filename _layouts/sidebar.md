@@ -19,6 +19,7 @@
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Akshat Mishra](../journeys/hugekontrast.md)
     - [Anirudha Kurhade](../journeys/anikurhade.md)
+    - [Anjali Prasad](../journeys/anjali112-bit.md)
     - [Arpit Ghura](../journeys/arpitghura.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
