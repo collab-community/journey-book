@@ -28,6 +28,7 @@
     - [Deepanshu Anand](../journeys/Deepanshu0810.md)
     - [Divas](../journeys/divasgt.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
+    - [Gaurav Lonari](../journeys/gauravlonari.md)
     - [Habeeb B. Oyesile](../journeys/badbatunde.md)
     - [Harsh Waghela](../journeys/styrene01.md)
     - [Hritesh Goldar](../journeys/hritesh94.md)
