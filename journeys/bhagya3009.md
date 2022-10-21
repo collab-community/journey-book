@@ -16,7 +16,7 @@ Hey I'am Bhagyashri Zende👋. I am 20 Year Student , Currently Perusing My BE I
 
 - DSA in Java.
 - Contributing to Open Source.
-- Improving my Time Managemnet Skills.
+- Improving my Time Management Skills.
 - Learning More Of Unity, AR-VR Development, ARCloud.
 
 # In my free time you would find me doing-
