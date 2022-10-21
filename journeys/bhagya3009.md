@@ -23,13 +23,11 @@ Hey I'am Bhagyashri Zende👋. I am 20 Year Student , Currently Perusing My BE I
 
 💡 Listen Music
 
+💡 Watching Webseries
+
 💡 Sleep
 
 💡 Cooking
 
 # Connect with me 
-
-
-
 🔗 LinkedIn - [bhagyashri zende](https://www.linkedin.com/in/bhagyashri-zende-308b6b214/)
-
