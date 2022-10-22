@@ -58,7 +58,6 @@ To add your journey follow the below steps 👇
 {
   "name": "YOUR_NAME",
   "username": "YOUR_GITHUB_USERNAME",
-  "avatar": "https://github.com/YOUR_GITHUB_USERNAME.png"
 }
 ```
 
@@ -68,10 +67,19 @@ To add your journey follow the below steps 👇
 {
   "name": "Adarsh Jaiswal",
   "username": "Adarsh-jaiss",
-  "avatar": "https://github.com/Adarsh-jaiss.png"
 }
 ```
+- By default avatar will be same as git hub profile, But still want to customize it then provide avatar link.
 
+> For Example :-
+
+```json
+{
+  "name": "YOUR_NAME",
+  "username": "YOUR_GITHUB_USERNAME",
+  "avatar": "YOUR_AVATAR_URL"
+}
+```
 - Add your journey in your `your-github-username.md` file. You just have start with Introducing your self & share your social media links in that readme file and that will be displayed on our website (if you have not achieved something as of creating the journey currently, As you learn something new you can always update your README file).
 - If you want to know what exactly your journey should inculde please refer to &rarr; [What should I share in my journey?](https://collab-community.github.io/journey-book/#/_pages/what-should-i-share).
 - Check out our [contribution guidelines](https://github.com/collab-community/journey-book/blob/main/.github/CONTRIBUTING.md) for more information.
