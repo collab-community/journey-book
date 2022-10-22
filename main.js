@@ -92,7 +92,7 @@ window.addEventListener("hashchange", function () {
     const username = location.hash.split("/")[2];
     const user = userData.find((user) => user.username === username);
     const userAvatar = `https://github.com/${user.username}.png`
-    const favicon = `https://images.weserv.nl/?url=${userAvatar}&mask=circle&mtrim`;
+    const favicon = `https://images.weserv.nl/?url=${user.avatar??userAvatar}&mask=circle&mtrim`;
     document.getElementById("favicon").setAttribute("href", favicon);
   }
 });

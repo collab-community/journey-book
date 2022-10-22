@@ -7,7 +7,7 @@ You've come to the fun part! Tap ANY name below to see their coding journey and 
     <a :href="'#/journeys/' + user.username">
       <img
         class="user-card__image"
-        :src="'https://github.com/' + user.username + '.png'"
+        :src="user.avatar ?? 'https://github.com/' + user.username + '.png'"
         :alt="user.name + ' Profile Picture'"
       />
       <div class="user-card__info">
