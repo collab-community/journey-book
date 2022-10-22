@@ -1,21 +1,20 @@
 <h1 align="center">Hi there👋, I'm <a href="https://linkedin.com/in/vaibhavlonari">Vaibhav Lonari</a> </h1>
 <h3 align="center">A tech enthusiast doing all kinds of software development (Android / Web / x86).</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravlonari&label=Profile%20views&color=0e75b6&style=flat" alt="gauravlonari" /> </p> -->
 
-- 🔭 I’m currently working on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
-
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
-
-- 🤝 I’m looking for help with [Sahyadri Safar](https://github.com/gauravlonari/SahyadriSafar)
-
-- 📝 My blog site <a target="_blank" href="http://www.freeqry.blogspot.com">FreeQuery</a>
-
-- 📫 How to reach me <a href="mailto:vaibhavlonari99@gmail.com" target="_blank">vaibhavlonari99@gmail.com</a>
-
-- ⚡ Fun fact **1's upon a time, there was no 0**
+## Journey
+- Boys of a small village with big dreams got admission into a typical Tier 3 College.
+- Enjoying life with friends grown the network.
+- Very harsh side of scoring in subjects.
+- Got internship in Last year of 6 months.
+- After collge 1 year of trying for interviews.
+- Appearing for APTs and Interviews but not selected.
+- Tried hard and studied best one day to be a lucky day.
+- Interview from Infosys.
+- The interview was good.
+- Got selected and received Offer Letter.
+- Enjoying life at Infosys from last 10 months.
+- Other Things you can see on the bottom side.
 
 ## Skillset
 
