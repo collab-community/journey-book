@@ -8,6 +8,7 @@
 - Journeys
 
     - [Aayushi Mittal](../journeys/Aayushi-Mittal.md)
+    - [Abhay Nandan Singh](../journeys/deltaTH.md)
     - [Abbey Santos](../journeys/AbbeyIT.md)
     - [Abhinav Kar](../journeys/Abhinavkar.md)
     - [Abhishek Yadav](../journeys/bugsyy157.md)
