@@ -51,6 +51,7 @@
     - [Richard Jeremy Githuba](../journeys/githubarj.md)
     - [Ritika Agrawal](../journeys/Ritika-Agrawal811.md)
     - [Rohit Rajvaidya](../journeys/RohitRajvaidya5.md)
+    - [Rohit Singh](../journeys/Rohit9804.md)
     - [Sambhav Gupta](../journeys/sambhavgupta0705.md)
     - [Sandeep Urankar](../journeys/SandeepUrankar.md)
     - [Savi Jain](../journeys/Savijain.md)
