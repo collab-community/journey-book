@@ -26,6 +26,7 @@
     - [Ayush Rawat](../journeys/ayushrtwt.md)
     - [Ayush Sarode](../journeys/AyushSarode.md)
     - [Ayushi George](../journeys/ayushigeorge.md)
+    - [Bhagyashri Zende](../journeys/bhagya3009.md)
     - [Deepanshu Anand](../journeys/Deepanshu0810.md)
     - [Divas](../journeys/divasgt.md)
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
