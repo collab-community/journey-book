@@ -3,9 +3,22 @@
 ![journey-book header image](https://socialify.git.ci/collab-community/journey-book/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fgeest-travel-kit%2F128%2Ftravel_journey-13-512.png&name=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center">
-<img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-<img src="https://github-size-badge.herokuapp.com/collab-community/journey-book.svg" />
-  <a href="https://github.com/collab-community/journey-book"></a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <a href="https://github.com/collab-community/journey-book/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/collab-community/journey-book" alt="Contributors" />
+  </a>
+  <a href="https://github.com/collab-community/journey-book/pulse">
+    <img src="https://img.shields.io/github/commit-activity/m/collab-community/journey-book" alt="Activity" />
+  </a>
+  <a href="https://choosealicense.com/licenses/mit/">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" />
+  </a>
+  <a href="https://discord.gg/PGadh3Vyuv">
+    <img src="https://img.shields.io/discord/927781725159977013?logo=discord" alt="Chat on Discord" />
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=collab__">
+    <img src="https://img.shields.io/twitter/follow/collab__?style=social&logo=twitter" alt="Follow on Twitter" />
+  </a>
 </div>
 
 ## Introduction
