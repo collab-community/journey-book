@@ -58,6 +58,7 @@
     - [Savi Jain](../journeys/Savijain.md)
     - [Shivam Pathak](../journeys/ShivamPathak99.md)
     - [Sneha Agarwal](../journeys/isyneha.md)
+    - [Soumya Kushwaha](../journeys/Soumya-Kushwaha.md)
     - [Vikas Ganiga](../journeys/vikasganiga05.md)
     - [Vita Tran](../journeys/vita-tran.md)
 <!--END_SECTION:data-section-->
