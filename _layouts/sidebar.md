@@ -21,6 +21,7 @@
     - [Anirudha Kurhade](../journeys/anikurhade.md)
     - [Anjali Prasad](../journeys/anjali112-bit.md)
     - [Arpit Ghura](../journeys/arpitghura.md)
+    - [Aryan Kurhade](../journeys/aryankurhade.md)
     - [Aryav Chaturvedi](../journeys/aryav-v.md)
     - [Ashish Khanagwal](../journeys/Ashish-khanagwal.md)
     - [Ayush Rawat](../journeys/ayushrtwt.md)
