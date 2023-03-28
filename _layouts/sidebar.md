@@ -47,6 +47,7 @@
     - [Pranit Utekar](../journeys/Pranit-02.md)
     - [Pratap Parui](../journeys/pratap360.md)
     - [Prateek Srivastava](../journeys/Prateek-Srivastav.md)
+    - [Pushkar Roy](../journeys/roy2pushkar.md)
     - [Pushkaran](../journeys/Karan9616.md)
     - [Rafaela Grison](../journeys/GRISONRF.md)
     - [Raj Tiwari](../journeys/ausie8526.md)
