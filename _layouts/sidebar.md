@@ -33,6 +33,7 @@
     - [Ebuka Chuqz](../journeys/ebukachuqz.md)
     - [Gaurav Lonari](../journeys/gauravlonari.md)
     - [Habeeb B. Oyesile](../journeys/badbatunde.md)
+    - [Haris Khan](../journeys/harisdev-netizen.md)
     - [Harsh Waghela](../journeys/styrene01.md)
     - [Hritesh Goldar](../journeys/hritesh94.md)
     - [Kelvin Parmar](../journeys/kelvinparmar.md)
