@@ -21,7 +21,7 @@ Other than that ,
 
 ▶️ Reading books📖 based on Marketing, Startups, and Self growth💡
 
-▶️ Playing badminton🏸
+▶️ Playing chess
 
 ▶️ Spending time with my family👪
 
