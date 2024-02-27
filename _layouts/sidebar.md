@@ -16,6 +16,7 @@
     - [Agrim Sharma](../journeys/Agrim-Sharma174.md)
     - [Ahnaf Ahamed](../journeys/AhnafAhamed.md)
     - [Aishwar Pathak](../journeys/mrworld196wide.md)
+    - [Akshat Kumar](../journeys/KyloRen04.md)
     - [Akshat Mishra](../journeys/akshatmishra25.md)
     - [Akshat Mishra](../journeys/hugekontrast.md)
     - [Anirudha Kurhade](../journeys/anikurhade.md)
